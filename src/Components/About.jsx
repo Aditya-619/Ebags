@@ -2,7 +2,7 @@ const About=()=>{
     return (
         <>
         <div className="about-container">
-            <h1>suiiiiiiiiiiiiiii</h1>
+            <h1>This is about component</h1>
         </div>
         </>
     )
